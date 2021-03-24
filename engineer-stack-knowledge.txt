@@ -1,0 +1,77 @@
+Backend 
+	Git Repository - Github/Bitbucket/Gitlab
+	Microservicios - Java/NodeJS/Python/.Net/Kotlin
+	Database - SQL(Mysql, Postgre, SQL Server) y NoSQL(MongoDB, Elasticsearch, Redis, DynamoDB, Cassandra, Neo4j, etc)
+	Build Tool - Maven/Gradle
+	Docker - Container(Linux)
+	Kubernetes	- Container Orchestration 
+
+Frontend
+	Git Repository - Github/Bitbucket/Gitlab
+	Web
+		CSS
+		HTML
+		Javascript (Angular, React, VueJS)
+		Build Tool - mpn
+	Mobile - Android
+		Kotlin
+		Build Tool - Gradle
+		Firebase - Push Notification
+	Mobile - IOS
+		Swift
+		Build Tool - Cocopods
+		Firebase
+	Mobile - Hibrido
+		Flutter / ReactNative / NativeScript / Ionic
+		Build Tool - 
+		Firebase
+
+
+QA
+	Git Repository - Github/Bitbucket/Gitlab
+	Automation Test
+		Serenity (Java)	- Integración
+		Gatling	 (Scala) - Stress Testing
+ 		JMeter	 (Scripting - Java) - Stress Testing
+ 		Jasmine - Karma - PhatomJS (Javascript) - Integration - E2E
+ 		Appium - Mobile - E2E
+
+ 	Functional Test
+
+DevOps (Python / Golang / Bash)
+	Git Repository - Github/Bitbucket/Gitlab
+	Pipeline - Jenkins/AzureDevops/Bitbucket Pipelines (CD/CI)
+	Artifactory Repository - Nexus/Artifacts/JFrog Artifactory
+	SAST(Static Application Security Testing) - SonarQube
+	DAST(Dynamic Application Security Testing) - Fortify/FluidAttacs
+	Infraestructura - AWS/GCP/Azure
+	Monitoring (New Relic/Dynatrace/Datadog)
+		Logs - ELK(Elasticsearch-Logstash-Kibana)/EFK(Elasticsearch-Fluentd-Kibana)
+		Telemetry - Prometheus - Grafana
+		APM(Application Performance Monitoring)
+	Beta testing Mobile Apps - Crashlytics/TestFlight/
+	Docker - Container(Linux)
+	Kubernetes (K8s)	- Container Orchestration 
+	ServiceMesh - Administrador de K8s - Istio
+	Terraform - Provising - Infraestructure as a Code
+	Ansible - Configuration Tool
+
+
+Data Engineer
+	Git Repository - Github/Bitbucket/Gitlab
+	Database - SQL(Mysql, Postgre, SQL Server) y NoSQL(MongoDB, Elasticsearch, Redis, DynamoDB, Cassandra, Neo4j, etc)
+	Statictics - Define Indicadores - Mediciones
+	Dashboards
+	Alerts
+
+Scrum Master
+	Planning
+		Requerimiento Funcional --> User Story (Epic)
+									Task
+									Spike - Entregable
+	Meeting
+		Daily Meeting
+		Grooming - Refinamiento
+		Sprint Planning
+		Sprint Review
+		Retrospective - Feedback
